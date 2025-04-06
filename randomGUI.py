@@ -1,3 +1,6 @@
+"""
+Copyright (C) 2025 ヘソライダー All Rights Reserved.
+"""
 import tkinter
 import random
 
